@@ -1,1 +1,1 @@
-reposiroty for ELL890 project work
+repository for ELL890 project work
